@@ -1,12 +1,12 @@
 const menunya = (prefix) => {
-return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
+return`━━֍  〔 🪀 _*BY ${T Z Y D I N}*_ 🪀〕
 ──────────────────
 ◈ _Nama Owner : ${NamaOwner}_
 ◈ _Nomor Owner : ${NomorOwner}_
-〽️ YT : GZ BOTZ  JANGAN LUPA SUBSCRIBE 〽️
-〽️ NOMOR : 0895326739863 JAN LUPA SAVE 〽️
-〽️ IG : ( erozetika_ ) JAN LUPA FOLLOW 〽️
-〽️ TIK TOK : ( rokhis290 ) JAN LUPA FOLLOW 〽️
+〽️ YT : NURDIN YT  JANGAN LUPA SUBSCRIBE 〽️
+〽️ NOMOR : 085798328466 JAN LUPA SAVE 〽️
+〽️ IG : ( nurdingans13 ) JAN LUPA FOLLOW 〽️
+〽️ TIK TOK : ( tzydin_ ) JAN LUPA FOLLOW 〽️
 
 
 
@@ -327,7 +327,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ║│${prefix}herolist「 Mobile Legends 」
 ║│${prefix}googlesearch 「 Terserah 」
 ╠══════════════════════╡
-║            Eroze Bot
+║         T Z Y D I N
 ╚══════════════════════╡`
 }
 exports.menunya = menunya
